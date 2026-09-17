@@ -132,4 +132,4 @@ ve yalnızca eğitim amaçlı kullanılmıştır.
 
 ## 👤 Yazar
 
-**Esra** — METU/ODTÜ İstatistik (Data Science & Business Analytics) — Miuul Data Scientist Bootcamp
+**Esra Eslem Savaş** — Miuul Data Scientist Bootcamp
